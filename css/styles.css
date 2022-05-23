@@ -1,3 +1,35 @@
+/************************** TAG ******************************/
+
 body {
-    background-color: blue;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+div {
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+}
+
+h1 {
+    font-family: 'Sacramento', cursive;
+    margin-top: 0;
+}
+
+h2, h3 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+/************************** CLASS ******************************/
+
+.top-cloud {
+    position: absolute;
+    top: 50px;
+    right: 30%;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 30%;
 }
